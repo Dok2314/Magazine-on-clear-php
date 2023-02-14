@@ -1,0 +1,1 @@
+# Magazine-on-clear-php
